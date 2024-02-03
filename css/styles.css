@@ -3,13 +3,23 @@ body {
 }
 
 h1 {
-    font-size: 3rem;
+    font-family: 'Caveat', cursive;
+    font-size: 57px;
     text-align: center;
-    text-decoration: underline;
+    font-weight: 500;
+    background-color: antiquewhite;
+    padding: 5px 0;
+}
+
+ul {
+    /* border: 1px solid red; */
+    margin-top: 70px;
 }
 
 li a {
+    display: inline-block;
     font-size: 1.8rem;
-    color: green;
+    color: black;
+    margin-bottom: 20px;
 }
 
