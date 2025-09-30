@@ -49,3 +49,8 @@ main {
     padding-left: 20px;
 }
 
+.recipe-description, .recipe-ingredients, .recipe-steps {
+    /* border: 1px solid red; */
+    margin-bottom: 10px;
+}
+
