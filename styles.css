@@ -4,28 +4,3 @@
     padding: 0;
 }
 
-body {
-    font-family: "Brush Script MT", Helvetica, sans-serif;
-    font-size: 2rem;
-    /* border: 1px solid red; */
-    margin-top: 20px;
-}
-
-
-h1 {
-    text-align: center;
-}
-
-ul {
-    /* border: 1px solid red; */
-    margin-top: 20px;
-    text-align: center;
-}
-
-ul li {
-    margin-bottom: 10px;
-}
-
-a {
-    color: #000;
-}
