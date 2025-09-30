@@ -39,3 +39,11 @@ h2, h3 {
     height: auto;
     width: 520px;
 }
+
+.recipe-ingredients-list, .recipe-steps-list {
+    list-style-position: inside;
+}
+
+main {
+    border: 1px solid red;
+}
