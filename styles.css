@@ -11,6 +11,11 @@ h1 {
     text-align: center;
 }
 
+h2, h3 {
+    font-family: "Brush Script MT", Helvetica, sans-serif;
+    font-size: 2.2rem;
+}
+
 .home-recipe-list {
     /* border: 1px solid red; */
     font-family: "Brush Script MT", Helvetica, sans-serif;
@@ -32,5 +37,5 @@ h1 {
     display: block;
     margin: 25px auto;
     height: auto;
-    width: 550px;
+    width: 520px;
 }
