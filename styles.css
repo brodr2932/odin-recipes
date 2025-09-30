@@ -45,5 +45,7 @@ h2, h3 {
 }
 
 main {
-    border: 1px solid red;
+    /* border: 1px solid red; */
+    padding-left: 20px;
 }
+
